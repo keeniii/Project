@@ -1,1 +1,232 @@
+.all {
+    background: linear-gradient(#9ae6e2, #43d3a3);
+}
+
+body {
+    margin: 0px;
+}
+
+.conteiner {
+    font-size: 40px;
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+.conteiner2 {
+    font-size: 40px;
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+.conteiner3 {
+    font-size: 40px;
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+.shapka {
+    border-bottom-style: solid;
+}
+
+.mainkai {
+    display: flex;
+    border-bottom-style: solid;
+    padding-top: 80px;
+}
+
+.kaiangel {
+    display: inline-block;
+    text-align:center;
+    font-size: 30px;
+    margin-left: 300px;
+    margin-bottom: 200px;
+}
+
+.mainseven {
+    display: flex;
+    border-bottom-style: solid;
+    padding-top: 80px;
+}
+
+.seven {
+    display: inline-block;
+    text-align:center;
+    font-size: 30px;
+    margin-left: 300px;
+    margin-bottom: 200px;
+}
+
+.mainkishlak {
+    display: flex;
+    padding-top: 80px;
+}
+
+.kishlak {
+    display: inline-block;
+    text-align:center;
+    font-size: 30px;
+    margin-left: 300px;
+    margin-bottom: 300px;
+}
+
+.bio {
+    display: inline-block;
+    text-align:left;
+    font-size: 40px;
+    margin-left: 180px;
+    margin-top: 50px;
+    padding-right: 50px;
+}
+
+.bio>a {
+    color: rgb(0, 0, 0);
+    background: #53f7ee;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 5px;
+    border-style: solid;
+    padding-top: 1px;
+    border-color: #53f7ee;
+    text-decoration: none;
+    border-width: 0.5px;
+    border-radius: 20px;
+    
+}
+
+.nik {
+    display: inline-block;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 25px;
+}
+
+.main {
+    margin-left: -150px;
+    background: linear-gradient(#9ae6e2, #dd5a97, #43d3a3);
+    
+}
+ 
+.row {
+    width: 600px;
+}
+
+.photo1 {
+    border-style: solid;
+    background: linear-gradient(#9ae6e2, #6dc8d8, #f78de9);
+}
+.photo2 {
+    border-style: solid;
+    background: linear-gradient(#e96cbf, #dd5a97, #c06ab7);
+}
+.photo3 {
+    border-style: solid;
+    background: linear-gradient(#9b739e, #7fbfc4, #84e2c3);
+}
+
+body::-webkit-scrollbar {
+    width: 12px;               
+  }
+  body::-webkit-scrollbar-track {
+    background: #9ae6e2;        
+  }
+  body::-webkit-scrollbar-thumb {
+    background-color: rgb(243, 113, 211);   
+    border-radius: 20px;       
+    border: 3px solid #9ae6e2  
+  }
+  
+  @media (max-width: 1000px) { 
+    .all {
+        display: inline;
+        text-align: left;
+    }
+    .shapka {
+        border-bottom-style: solid;
+        text-align: center;
+        margin-left: -300px;
+        background: linear-gradient(#9ae6e2, #dd5a97, #43d3a3);
+    }
+    .body {
+        display: inline;
+        text-align: left;
+    }
+    .main {
+        display: inline;
+        text-align: left;
+        background: linear-gradient(#9ae6e2, #dd5a97, #43d3a3);
+    }
+    .mainkai {
+        display: inline;
+        text-align: left;
+        margin-left: -150px;
+        padding-bottom: 50px;
+    }
+    .mainkishlak {
+        display: inline;
+        text-align: left;
+        margin-left: -300px;
+    }
+    .mainseven {
+        display: inline;
+        margin-left: -300px;
+    }
+    .seven {
+        border-bottom-style: solid;
+        margin-bottom: 50px;
+    }
+    .nik {
+        display: inline-block;
+        text-align: left;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        font-size: 50px;
+        margin-bottom: 25px;
+    }
+    .bio>a {
+        color: rgb(0, 0, 0);
+        background: #53f7ee;
+        font-weight: bold;
+        font-size: 25px;
+        padding: 5px;
+        border-style: solid;
+        padding-top: 1px;
+        border-color: #53f7ee;
+        text-decoration: none;
+        border-width: 0.5px;
+        border-radius: 20px;
+        
+}
+.bio {
+    display: inline-block;
+    text-align:left;
+    font-size: 40px;
+    margin-left: 180px;
+    margin-top: 50px;
+    padding-right: 50px;
+    margin-bottom: 50px;
+}
+  }
+  @media (max-width: 1010px) { 
+  .main {
+    background-color: none;
+    
+  }
+
+
+
+
+
+
+}
 
