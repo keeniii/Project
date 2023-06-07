@@ -1,0 +1,98 @@
+body {
+    margin: 0px;
+  }
+  
+  .shapka {
+    font-weight: bold;
+    padding-top: 10px;
+    font-size: 40px;
+    display: flex;
+    border-bottom-style: solid;
+    background-color: #9ae6e2;
+  }
+  
+  .conteiner {
+    display: block;
+    margin-top: 40px;
+  }
+  
+  .conteiner2 {
+    display: inline-block;
+    margin-left: 770px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .f {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .KK {
+    text-align: left;
+    font-weight: bold;
+    margin: 10px;
+    border-style: solid;
+    padding:2px;
+    border-radius: 7px;
+    border-color: #361934;
+  }
+  
+  .albums {
+    display: inline-flex;
+    padding-left: 490px;
+  }
+  
+  .g {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .singles {
+    display: flex;
+    text-align: center;
+    padding-left: 37px;
+  }
+  .singles2 {
+    display: flex;
+    padding-left: 618px
+  }
+  
+  .main {
+    background: linear-gradient(#9ae6e2, #dd5a97, #43d3a3);
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  body::-webkit-scrollbar {
+      width: 12px;               
+    }
+    body::-webkit-scrollbar-track {
+      background: #9ae6e2;        
+    }
+    body::-webkit-scrollbar-thumb {
+      background-color: rgb(243, 113, 211);   
+      border-radius: 20px;       
+      border: 3px solid #9ae6e2  
+    }
